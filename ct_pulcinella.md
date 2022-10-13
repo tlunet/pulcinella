@@ -13,6 +13,7 @@ v.fauvel@scenewatteau.fr
 - petites tables à cour avec bilboquet dessus
 - bancs (x2) avant-scène à jardin
 - portant en bois avant cour, avec un costume blanc dessus
+- petit théêtre caché à cour
 
 ## Prologue + 1er tableau
 
@@ -59,7 +60,7 @@ v.fauvel@scenewatteau.fr
 - Bascule noir
 - Monologue Pierrot
 - Tango Olivia
-- **Fin tango : relachement coins tulle avec enlevage pince à jardin + fermeture rideau noir**
+- **Fin tango : relachement coins tulle avec enlevage pince à jardin + fermeture rideau noir + Nico accompagne guinde coin tulle cour**
 
 ## Entracte + changement de tableau
 
@@ -67,4 +68,44 @@ v.fauvel@scenewatteau.fr
 - Enlever bateau + pince tulle cour + remettre tulle droit
 - Remettre bien frise cyclo
 - Virer bancs
-- Placement tapis
+- Placement tapis (trois grands d'abord, ensuite petits)
+- Placement forêt, check fumée
+
+## 3ème tableau
+
+- Danse des garçons
+  - Lacher tulle au dernier temps de la danse (8ème)
+- Discussion garçons
+- Discussion filles
+- Monologue Arlequin
+- Serenata
+- Dialogue Matamore + Phyllis
+- Dialogue Pulcinella + Isabelle (rupture)
+- Pas de deux : Florinda + Pulcinella
+- Folie d'Arlequin + Tarentelle
+- Fin d'Arlequin + musique
+- Monologue Colombine
+- Chant Isabelle
+
+## Précipité Palais (après la tirade de Matamore)
+
+- Sortie forêt (Gloria + Manon) + roulage petits tapis (4 comédiens)
+- Charge palais (3 techniciens) + roulage gros tapis (3 comédiens)
+- Déroulé palais (Tibo + gabriel + matamore)
+  - Lustre avant (Nico) juste avant le déroulage palais => repère bas
+  - Lustre jardin (Yann) au troisème lé déroulé => repère bas
+  - Lustre cour (Nico) au dernier lé déroulé => repère bas
+- Tibo récupère les élingues perches, apporte de la crème chantilly à Phyllis, et repart à cour
+
+## 4ème tableau
+
+- Scène Matamore, Phyllis (et Lélio)
+- Scène Florinda, Rosallinde, Brighella
+- Chant Florinda
+- Annonce pendaison Arlequin
+  - "Ici, sur les marches du palais ducal, ..." => appui palais (Yann à jardin, Tibo à cour)
+- Funérailles Arlequin
+- Résurection Arlequin
+- Final et danse
+
+## Salut et fin
