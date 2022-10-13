@@ -74,7 +74,7 @@ v.fauvel@scenewatteau.fr
 ## 3ème tableau
 
 - Danse des garçons
-  - Lacher tulle au dernier temps de la danse (8ème)
+  - **Lacher tulle au dernier temps de la danse (8ème)**
 - Discussion garçons
 - Discussion filles
 - Monologue Arlequin
@@ -103,8 +103,9 @@ v.fauvel@scenewatteau.fr
 - Scène Florinda, Rosallinde, Brighella
 - Chant Florinda
 - Annonce pendaison Arlequin
-  - "Ici, sur les marches du palais ducal, ..." => appui palais (Yann à jardin, Tibo à cour)
+  - **"Ici, sur les marches du palais ducal, ..." => appui palais (Yann à jardin, Tibo à cour)+ appui lustre cour repère (très) haut (Nico)**
 - Funérailles Arlequin
+  - **entrée petit théâtre => appui lustre cour repère haut (Nico) + appui lustre jardin repère haut (Lou)**
 - Résurection Arlequin
 - Final et danse
 
