@@ -54,7 +54,7 @@ v.fauvel@scenewatteau.fr
 - Danse + dialogue Florinda + Lelio
 - Dialogue Colombine + Arlequin (rupture)
 - Chant Marius ("Moriro, Moriro !")
-  - "Tout est froid" ... "plus de rêve" => écrasement cyclo (Yann, top par Tibo)
+  - **"Tout est froid" ... "plus de rêve" => écrasement cyclo (Yann, top par Tibo)**
 - Chant "Sento Dire"
 - Chant "Dispute"
 - Bascule noir
