@@ -40,15 +40,12 @@ v.fauvel@scenewatteau.fr
   - entrée bateau cour (Nico) + bateau jardin (Yann)
 - _Chant Lelio (commencé pendant la phase 1)_
 - **Phase 2 (fin chant) :**
-  - placement bancs à jardin puis cour (Yann + Tibo)
+  - placement bancs à jardin (Yann + Tibo) et cour (Nico + Jocelin)
   - entrée filles à cour
-  - placement toile (Marius + Erwan)
-- **Phase 3 :**
-  - déroulé toile (Marius + Erwan)
-  - top lumière Nico pour Anne
-- **Phase 4 :**
-  - entrée Pierrot à jardin avec musique
-  - plafonnement des lustres (Yann jardin, Nico et Tibo à cour)
+  - placement toile et déroulé avec la lumière (Marius + Erwan)
+- **Phase 4 : avec la musique**
+  - entrée Pierrot à jardin
+  - plafonnement des lustres (Yann jardin, Nico à cour, lustres à cour en deuxième temps sur la reprise musique)
 
 ## 2ème tableau
 
@@ -57,8 +54,8 @@ v.fauvel@scenewatteau.fr
 - _Dialogue Lelio + Matamore_
 - _Dialogue Colombine + Arlequin_
 - _Scène dans le parc_
-  - **fin scène, pendant la musique => tulle accompagné en position plume**
-- _Danse + dialogue Florinda + Lelio_
+  - **fin scène, pendant la musique => tulle accompagné en position plume (:warning: repère à placer !)**
+- _Danse et dialogue Florinda + Lelio_
 - _Dialogue Colombine + Arlequin (rupture)_
 - _Chant Marius ("Moriro, Moriro !")_
   - **"Tout est froid" ... "plus de rêve" => écrasement cyclo (Yann, top par Tibo)**
@@ -127,6 +124,8 @@ v.fauvel@scenewatteau.fr
 - _Funérailles Arlequin_
   - **entrée petit théâtre => appui lustre cour repère haut (Nico) + appui lustre jardin repère haut (Lou)**
 - _Résurection Arlequin_
+  - **Déplacement petit théâtre à jardin (Jocelin)**
+  - **Déplacement bancs sur les côtés du palais**
 - _Final et danse_
 
 ## Salut et fin
