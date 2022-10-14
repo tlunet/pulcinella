@@ -83,42 +83,50 @@ v.fauvel@scenewatteau.fr
 
 ## 3ème tableau
 
-- Danse des garçons
+- _Danse des garçons_
   - **Lacher tulle au dernier temps de la danse (8ème)**
-- Discussion garçons
+- _Discussion garçons_
   - **Fin scène => déplacement forêt à jardin (par comédiens)**
-- Discussion filles
-- Monologue Arlequin
-- Serenata (chant Arlequin)
-- Dialogue Matamore + Phyllis
+- _Discussion filles_
+- _Monologue Arlequin_
+- _Serenata (chant Arlequin)_
+- _Dialogue Matamore + Phyllis_
   - **Déplacement forêt à cour (par comédiens)**
-- Dialogue Pulcinella + Isabelle (rupture)
-- Pas de deux : Florinda + Pulcinella
-- Folie d'Arlequin + Tarentelle
-- Fin d'Arlequin + musique
-- Monologue Colombine
-- Chant Isabelle
+- _Dialogue Pulcinella + Isabelle (rupture)_
+- _Pas de deux : Florinda + Pulcinella_
+- _Folie d'Arlequin + Tarentelle_
+- _Fin d'Arlequin + musique_
+- _Monologue Colombine_
+- _Chant Isabelle_
 
 ## Précipité Palais (après la tirade de Matamore)
 
-- **Sortie forêt (Gloria + Manon) + début charge palais (Nico et Yann) + roulage petits tapis (4 comédiens)**
-- **Roulage gros tapis (3 comédiens) + fin charge palais + décrochage élingues palais ( **
-- Déroulé palais (Tibo + gabriel)
-  - Lustre avant (Nico) juste avant le déroulage palais => repère bas
-  - Lustre jardin (Yann) au troisème lé déroulé => repère bas
-  - Lustre cour (Nico) au dernier lé déroulé => repère bas
-- Tibo récupère les élingues perches, apporte de la crème chantilly à Phyllis, et repart à cour
+- **Phase 1 :**
+  - Sortie forêt (Gloria + Manon)
+  - Début charge palais (Nico et Yann)
+  - Roulage petits tapis (4 comédiens)
+- **Phase 2 :**
+  - Roulage gros tapis (3 comédiens)
+  - Fin charge palais
+  - Décrochage élingues rouleaux (Yann)
+- **Phase 3 :**
+  - Déroulé palais (Tibo + gabriel)
+  - Charge lustre avant au repère bas (Nico, au premier lé déroulé)
+  - Charge lustre jardin au repère bas (Yann, au troisème lé déroulé)
+  - Charge lustre cour au repère bas (Nico, au dernier lé déroulé)
+- **Phase 4 :**
+  - Tibo récupère les élingues perches, apporte de la crème chantilly à Phyllis, et repart à cour
 
 ## 4ème tableau
 
-- Scène Matamore, Phyllis (et Lélio)
-- Scène Florinda, Rosallinde, Brighella
-- Chant Florinda
-- Annonce pendaison Arlequin
+- _Scène Matamore, Phyllis (et Lélio)_
+- _Scène Florinda, Rosallinde, Brighella_
+- _Chant Florinda_
+- _Annonce pendaison Arlequin_
   - **"Ici, sur les marches du palais ducal, ..." => appui palais (Yann à jardin, Tibo à cour)+ appui lustre cour repère (très) haut (Nico)**
-- Funérailles Arlequin
+- _Funérailles Arlequin_
   - **entrée petit théâtre => appui lustre cour repère haut (Nico) + appui lustre jardin repère haut (Lou)**
-- Résurection Arlequin
-- Final et danse
+- _Résurection Arlequin_
+- _Final et danse_
 
 ## Salut et fin
