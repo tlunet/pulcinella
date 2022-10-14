@@ -5,62 +5,72 @@ v.fauvel@scenewatteau.fr
 ## Mise
 
 - Arbre sur perche
-- Lustres (x3) en position haute (repère commande)
+- Lustres (x3) en position haute (repère commande), avec spoon
 - Tulles posé et appuyé, accroches vérifiées, guindes rangées à jardin
 - 13 chaises en position
-- palais accrochés sur sous-perches plafonnées
-- cyclo appuyé
-- petites tables à cour avec bilboquet dessus
-- bancs (x2) avant-scène à jardin
-- portant en bois avant cour, avec un costume blanc dessus
-- petit théêtre caché à cour
+- Palais accrochés sur sous-perches plafonnées
+- Cyclo appuyé
+- Petites tables à cour avec bilboquets (x2) et toupie dessus
+- Bancs (x2) avant-scène à jardin
+- Portant en bois avant cour, avec un costume blanc dessus
+- Petit théâtre caché à cour
 
 ## Prologue + 1er tableau
 
-- Pierrot au plateau
-- Monologue de Gabriel + pantomime
-- Danses d'ouverture derrière le tulle
+- **Pierrot au plateau (pendant entrée publique)**
+- **Salle prête => top pour Anne, entrée Emmanuel et Gabriel**
+- _Monologue de Gabriel + pantomime_
+- _Danses d'ouverture derrière le tulle_
   - **deuxième pas de Noémie : apui coins tulle en position symétrique**
-- Dialogue Arlequin + Colomine
-- Scène Pulcinella
-- Pas de quatre
-- Monologue Lélio + musique
-- Dialogue Phyllis + Brighella
-- Danse + monologue Florinda
-- Danse Scaramouche
-- Dialogue Chloris + Scaramouche
-- Parade (danse en diagonale)
+- _Dialogue Arlequin + Colomine_
+- _Scène Pulcinella_
+- _Pas de quatre_
+- _Monologue Lélio ("Je suis poête ...") + musique_
+- _Dialogue Phyllis + Brighella_
+- _Danse + monologue Florinda_
+- _Danse Scaramouche_
+- _Dialogue Chloris + Scaramouche_
+- _Parade (danse en diagonale)_
 
 ## Intermède + changement tableau
 
-- Fin danse :
-  - **sortie chaises après placement Tibo (chaises jardin puis chaises fond à jardin, chaises cour à cour) + sortie table (Nico)**
+- **Phase 1 (fin de la danse) :**
+  - sortie chaises après placement Tibo (chaises jardin puis chaises fond à jardin, chaises cour à cour) + sortie table (Nico)
   - :bell: comédiens à cours prennent chacun un bilboquet
-  - **entrée bateau cour (Nico) + bateau jardin (Yann)**
-- Chant Lelio
-- Fin chant :
-  - **placement bancs à jardin puis cour (Yann + Tibo)** + entrée filles à cour + **placement toile (Marius + Erwan)**
-  - **déroulé toile (Marius + Erwan) + top lumière Nico pour Anne**
-  - entrée Pierrot à jardin + musique + **plafonnement des lustres (Yann jardin, Nico et Tibo à cour)**
+  - entrée bateau cour (Nico) + bateau jardin (Yann)
+- _Chant Lelio (commencé pendant la phase 1)_
+- **Phase 2 (fin chant) :**
+  - placement bancs à jardin puis cour (Yann + Tibo)
+  - entrée filles à cour
+  - placement toile (Marius + Erwan)
+- **Phase 3 :**
+  - déroulé toile (Marius + Erwan)
+  - top lumière Nico pour Anne
+- **Phase 4 :**
+  - entrée Pierrot à jardin avec musique
+  - plafonnement des lustres (Yann jardin, Nico et Tibo à cour)
 
 ## 2ème tableau
 
-- Gavote Pierrot
-- Dialogue Pierrot + Florinda
-- Dialogue Lelio + Matamore
-- Dialogue Colombine + Arlequin
-- Scène dans le parc
+- _Gavote Pierrot_
+- _Dialogue Pierrot + Florinda_
+- _Dialogue Lelio + Matamore_
+- _Dialogue Colombine + Arlequin_
+- _Scène dans le parc_
   - **fin scène : "les hommes sentiront que les poètes ne meurent pas seuls" => tulle en position plume**
-- Danse + dialogue Florinda + Lelio
-- Dialogue Colombine + Arlequin (rupture)
-- Chant Marius ("Moriro, Moriro !")
+- _Danse + dialogue Florinda + Lelio_
+- _Dialogue Colombine + Arlequin (rupture)_
+- _Chant Marius ("Moriro, Moriro !")_
   - **"Tout est froid" ... "plus de rêve" => écrasement cyclo (Yann, top par Tibo)**
-- Chant "Sento Dire"
-- Chant "Dispute"
-- Bascule noir
-- Monologue Pierrot
-- Tango Olivia
-- **Fin tango : relachement coins tulle avec enlevage pince à jardin + fermeture rideau noir + Nico accompagne guinde coin tulle cour**
+- _Chant "Sento Dire"_
+- _Chant "Dispute"_
+- _Bascule noir_
+- _Monologue Pierrot_
+- _Tango Olivia_
+- **Fin tango :**
+  - relachement coins tulle avec enlevage pince à jardin
+  - fermeture rideau noir
+  - Nico accompagne guinde coin tulle cour
 
 ## Entracte + changement de tableau
 
@@ -76,10 +86,12 @@ v.fauvel@scenewatteau.fr
 - Danse des garçons
   - **Lacher tulle au dernier temps de la danse (8ème)**
 - Discussion garçons
+  - **Fin scène => déplacement forêt à jardin (par comédiens)**
 - Discussion filles
 - Monologue Arlequin
-- Serenata
+- Serenata (chant Arlequin)
 - Dialogue Matamore + Phyllis
+  - **Déplacement forêt à cour (par comédiens)**
 - Dialogue Pulcinella + Isabelle (rupture)
 - Pas de deux : Florinda + Pulcinella
 - Folie d'Arlequin + Tarentelle
@@ -89,9 +101,9 @@ v.fauvel@scenewatteau.fr
 
 ## Précipité Palais (après la tirade de Matamore)
 
-- Sortie forêt (Gloria + Manon) + roulage petits tapis (4 comédiens)
-- Charge palais (3 techniciens) + roulage gros tapis (3 comédiens)
-- Déroulé palais (Tibo + gabriel + matamore)
+- **Sortie forêt (Gloria + Manon) + début charge palais (Nico et Yann) + roulage petits tapis (4 comédiens)**
+- **Roulage gros tapis (3 comédiens) + fin charge palais + décrochage élingues palais ( **
+- Déroulé palais (Tibo + gabriel)
   - Lustre avant (Nico) juste avant le déroulage palais => repère bas
   - Lustre jardin (Yann) au troisème lé déroulé => repère bas
   - Lustre cour (Nico) au dernier lé déroulé => repère bas
