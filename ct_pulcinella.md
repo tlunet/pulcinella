@@ -57,7 +57,7 @@ v.fauvel@scenewatteau.fr
 - _Dialogue Lelio + Matamore_
 - _Dialogue Colombine + Arlequin_
 - _Scène dans le parc_
-  - **fin scène : "les hommes sentiront que les poètes ne meurent pas seuls" => tulle en position plume**
+  - **fin scène, pendant la musique => tulle accompagné en position plume**
 - _Danse + dialogue Florinda + Lelio_
 - _Dialogue Colombine + Arlequin (rupture)_
 - _Chant Marius ("Moriro, Moriro !")_
