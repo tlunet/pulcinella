@@ -11,7 +11,7 @@ v.fauvel@scenewatteau.fr
 - Palais accrochés sur sous-perches plafonnées
 - Cyclo appuyé
 - Petites tables à cour avec bilboquets (x2) et toupie dessus
-- Bancs (x2) avant-scène à jardin
+- Bancs (x2) répartis en coulisse (jardin et cour)
 - Portant en bois avant cour, avec un costume blanc dessus
 - Petit théâtre caché à cour
 
@@ -95,19 +95,19 @@ v.fauvel@scenewatteau.fr
 - _Fin d'Arlequin + musique_
 - _Monologue Colombine_
 - _Chant Isabelle_
+  - **Sortie forêt (Gloria + Noemie), lentement**
 
 ## Précipité Palais (après la tirade de Matamore)
 
-- **Phase 1 :**
-  - Sortie forêt (Gloria + Manon)
+- **Phase 1 : Claquement des mains Jocelin**
   - Début charge palais (Nico et Yann)
   - Roulage petits tapis (4 comédiens)
 - **Phase 2 :**
   - Roulage gros tapis (3 comédiens)
   - Fin charge palais
-  - Décrochage élingues rouleaux (Yann)
+  - Décrochage élingues rouleaux (Yann + Tibo + Gabriel)
 - **Phase 3 :**
-  - Déroulé palais (Tibo + gabriel)
+  - Déroulé palais (Tibo + Gabriel)
   - Charge lustre avant au repère bas (Nico, au premier lé déroulé)
   - Charge lustre jardin au repère bas (Yann, au troisème lé déroulé)
   - Charge lustre cour au repère bas (Nico, au dernier lé déroulé)
